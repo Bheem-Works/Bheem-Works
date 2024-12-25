@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love exploring new technologies, building innovative projects, and sharing my knowledge with the community.
+Hi, I'm **Bhim magar**, a passionate developer and lifelong learner. I love exploring new technologies, building innovative projects, and sharing my knowledge with the community.
 
-- 🌱 Currently learning **Flutter, Cyber Security, Software Testing, Laravel, Ethical Hacking, Figma**
-- 💡 Interested in **Web Development, Mobile Development, Testing Software, Practical Project**
+- 🌱 Currently learning **Back-end, Ethical Hacking,Front-end, Figma**
+- 💡 Interested in **Web Development, Mobile Development, Practical Project**
 - 🎯 Goal for 2024: **Contribute to open-source projects and various community**
 - 🎮 Fun fact: **Crazy about Learning new stuff**
 
@@ -58,19 +58,16 @@ Hi, I'm **Oman Rai**, a passionate developer and lifelong learner. I love explor
 
 <div style="text-align: center;">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/oman-rai-9638a322a/">
+    <a href="https://www.linkedin.com/in/vim-magar-143a50310/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-      <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act">
+      <a href="mailto:jkytdada849op@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>      
-    <a href="https://www.facebook.com/oman.rai.794">
+    <a href="https://www.facebook.com/profile.php?id=61557396306228">
       <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>    
-    <a href="https://sainotech.com/">
-      <img src="https://img.shields.io/badge/Saino%20Tech-8906E6?style=for-the-badge&logo=build&logoColor=white" alt="Saino Tech Badge"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=your-github-omarai&style=for-the-badge&color=brightgreen&abbreviated=true" alt="Visitors"/>
+    <img src="https://github.com/Bheem-Works&style=for-the-badge&color=brightgreen&abbreviated=true" alt="Visitors"/>
   </div>
 </div>
 
